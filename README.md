@@ -1,2 +1,3 @@
-# webstudio-euroremont66-2f3a087e
-Web Studio landing for Euroremont66
+# Welcome to your Lovable project
+
+TODO: Document your project here
